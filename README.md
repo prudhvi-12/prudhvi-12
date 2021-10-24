@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Prudhvi an final year undergrad pursuing Computer Science at Anil Neerukonda Institute of Technology and Sciences.
+- 👋 Hi, I’m Prudhvi an final year undergrad pursuing Computer Science at ANITS,Vizag.
 - 👀 I’m interested in  Algorithms and Data Structures , Software Development.
